@@ -1,0 +1,11 @@
+﻿  Neuron 1.cpp
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(34,21): warning C4305:  инициализация: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(35,21): warning C4305:  инициализация: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(77,15): warning C4305:  =: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(77,26): warning C4305:  =: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(77,38): warning C4305:  =: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(77,49): warning C4305:  =: усечение из "double" в "float"
+E:\Other\Рабочий стол\Другое\Neuron 1\Neuron 1.cpp(77,70): warning C4305:  =: усечение из "double" в "float"
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Neuron 1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  Neuron 1.vcxproj -> E:\Other\Рабочий стол\Другое\Neuron 1\Debug\Neuron 1.exe
